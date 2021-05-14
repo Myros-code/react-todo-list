@@ -1,0 +1,27 @@
+.todo {
+}
+.todoTextWrap {
+}
+
+.wrapper {
+  padding: 8px;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.todoText {
+}
+
+.deleteBtn {
+  background-color: rgb(255, 5, 5);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.todoTextCompleted {
+  text-decoration: line-through;
+}
